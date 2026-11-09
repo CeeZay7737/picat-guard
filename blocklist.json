@@ -8,7 +8,8 @@
     ],
     "blocked_anchor_hashes": [
       "0388fcf8e36636e4bddfca14baa57ae9370ac02a7f224b1eff243feb5d83256a",
-      "e87ace1e92c7c17aff63687a9cc303afa0b52b91e021450d88eb2696cc537928"
+      "e87ace1e92c7c17aff63687a9cc303afa0b52b91e021450d88eb2696cc537928",
+      "b85f6248003d72d4634c5d65050dc1e35ee79a5ff81f53e3c67cc83afe482e2b"
     ],
     "blocked_hwid_hashes": [
       "19311bd9c5d5fbb572b99832c02b925dc3a7ee8e4be1ccbbf9df43b5b1d1c79f",
@@ -46,8 +47,8 @@
       "74da1e21068ef7ff297319c7943d37a88663407b9fdbea34337671333e263f67",
       "228799fa7e9055573073c5d565b2ca904768e6af9bece755cfef83d562e68639"
     ],
-    "issued_ts": 1794243646,
-    "version": "1794243646"
+    "issued_ts": 1794244278,
+    "version": "1794244278"
   },
-  "signature": "GlW0UwpBRf5bVbgLEP2WbKEMP4Rl+wqHMc5BSxscqf1juigkEaQhAhibCy1SKDFm+58qXuzaSoDpXV4ZZcwi0rCLnmL3SSLFgd/IqChH5SxdbSa8xcSHrZrP3hPsg+80d8khcEf+gDOzof+i07m8QHLKPJp13uqB8vod/wKAKWPb7KnbGALIT35R4MuLqiOYgTKb0hg5fYNotKwlC8HW3whJ8JCHOEd02njVAOxxYzoQzvDgZW4gOu4r4dDe6LZl9Kq/iJ1fB9HAI6IbGRvlMa9fnDd36dH9352pOZp4DKPysQLSZoa9BXcW8ZdSiSFEaztiix6iOy9ofjC2/8PLqA=="
+  "signature": "Cq/x5XHv7AUoa8nvjolapHTfZ6NBl9wgZNfIQI5olENm/BsrvIOlH5M04YVDSpd93reNPJ0qMzKVoKyyVIm5H+CkAPcgXGS+fI+50iT8O2IMcOlZek+7QfEb0P2BHAR01jd2980PPMTnzQDX+ym+6kqTBwYgmJ7maeiGnY3mP3a8STvtu49/t1s+Le50ylhybJ/0/6HxDVZiofwAhUXEZUTsZuaqzqX8wO7XjU6OP+j5aIx+OSbKtAdIo93AuX+0CmkwDniZ5jg6mhrHP1dWs5lZLR/ZzQcwjRC6+yGjW71V8xRPfe0m/OJBfSf3bbhRFAWYSXc+1igpAR00PUN5Pw=="
 }
