@@ -57,10 +57,11 @@
       "daea4bfcb76f6350fed4205d4a0319ed6dbb9e47f069ea6901e4fb391c3209a7",
       "ecc1303da11034a41dd54add413bdf1f14859abaabf531dd457aff9828673561",
       "eae6be1a6ce4ad0ce0557e860d97409b5aa0c4fbdf5b0114f721169d8762ada2",
-      "c48466aefc5564274e0e4ed1b1645d3aef14ede2cd7ed77268e9f540577d232a"
+      "c48466aefc5564274e0e4ed1b1645d3aef14ede2cd7ed77268e9f540577d232a",
+      "6fc05dae6b5d90471e8dc7bdfae23cf0640386aad346c3946da0e947c4ff413d"
     ],
-    "issued_ts": 1794277822,
-    "version": "1794277822"
+    "issued_ts": 1794277845,
+    "version": "1794277845"
   },
-  "signature": "ilnCwDaunCGdqKnW6QhgBRCVfSBvlt6Xq+flAivf3RbwqmoM++6WuDRP+DQtbszcKWsseTF2Ko1+C4ReLSW9cO9rhZ707ckB0qwqim9T6H+zeGM8l1kassAH/w5qGjsir44HlHqJp6QXPIMeZpN0pWbdqtYicCfbZdihgGHGcurCSIet3W+gJZ0EwVsnqJpXdlKyus90khmBsjGpC45ljU9gzMyM0rxYUYa9rMdb+Fw7GudK53PmrqvQhUwNQ7/NHVk/agFqgVi5ZXmTO6TeP+uhiMa++wGrsaDaaKD0nP8KUxVt7/fmAq9LcvX8lfOJ8pHmocrOT+7Q6grp888fVg=="
+  "signature": "RnmzFDGDmipanBfhaONUFctDzJ0wRAOBoXoOC/nS6u8Mf9NuSt+CKDFOzMiYCBW44ai9lMUXVkCrfESHr3s9xpsmnkGzOfpf4Db8c8qpHDplRBpLZRQmfiNPdBjT3g0tI+p5oYhZThOJWEdhQhrTPIjUyr/2ctXoCJ/ATzPxHMeRcrTzjhbsh/8eXK1reWPzyWXO+xupsOUfcsN4rgbjGvI1Hx1bFwgvd91uG9p3wro/D9b7WKe4VqynlNt2allsHn8pOY170d4aVyXYsT3X6rtRf/rqbaOOCgxy+sUyh/sPd93Ce5aWDcvv/TTiH0xEMFRmX/P12JntDXx7VkKQ1g=="
 }
