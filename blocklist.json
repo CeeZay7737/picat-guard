@@ -66,7 +66,6 @@
       "378452070878b4e33f840b6c5020a5b626e4ffa76bc37d185f2faf3f04328b6b",
       "4dc4fe149b526a017e0b6902f23b2dc2d54ceb9ccc7415ab8bfce82fb1f1abc1",
       "a3adc7a877389df99c219a3c80a96a1ede050285a9334877b305a10afb8110ce",
-      "060c681e1daef8115e20800618f3037bbb3225ce33fffabe5d7eb6d991c47329",
       "7b6aa6d128be10d10e0ae7cff402727ceb52a9155de30a0530c85a561cb7631b",
       "49778aef1a2c96273e1565c190dd3ce862d98333cad000fad0050b352d380061",
       "6ed972bdcaffb7c99ea875090d7c5429cbebdb142fbb3d9eaca8bcd17d0a3440",
@@ -74,8 +73,8 @@
       "29f6df27db11a5d1ba3b9ad5b95cf30139b5a1dcb751a408180f0937223cdd4e",
       "9a62c5a73bfd4f4d00d02f4b03475028c8141224cb4aecac734f06fc7b76c3cf"
     ],
-    "issued_ts": 1794365893,
-    "version": "1794365893"
+    "issued_ts": 1794394311,
+    "version": "1794394311"
   },
-  "signature": "SJTyjQ6VmZ9x4KzoumQMANSpt2nfxkdOmvnb+s+NShBthGWOzSGHBNiPP5YvhfSpWMq8HkMUPBAf4QFUHIMk3lzMy6CYCPlJIOKG8/k9NkvoA+S6TaJXbNvJd99R7h6DCJ73dHzMOb0Zx/lGb7XrT1tJgbKFyoQWMbpHHcnyIgOOnPuUrDQ+pqGx468xM6x8LpuoJKbSE97rcFgENFITZj6gqM/M0RP1WNvTpFL6UBgHs0M8TH/9guz9ALLAQD+nIuoafiYCRHWfVmMjU5rap1v2ZgBociarlmEUwNa2+c+/A9rU+fE7qx3Oc+mgvYxQInP7a97a+Cr3Y+6WfIQSYg=="
+  "signature": "IXbXTsqobJu2YyFh6CPuxmlQRVON3/L43KK0hjhFZfuSda5bAaGUvbZQvak1lNZkwx3+sfivyFQEVc0iFdVv2XykBc6o+2rx4C//xy6q6Xqs94K3iFpZa+hXqEJYZ0S1LwypxGuAQewDxSOM2R8aLcM17iU8CHbl1uRQW3PwMDX1/dffnfw9fRF9rjculc+aXA4bdwbfckaWHKvQRvVLx0lghWZryOjm17MFXPym1vuYdPe+TF8kMb7zT0ON0mShlNz0eGfHduxiHoR4s064Hf2DIQoiGiHxFTdyxpwvmz+sBwIlHLmQbmjRsaFp7ll86zQNP6XFW+kmruSW9QWAwQ=="
 }
